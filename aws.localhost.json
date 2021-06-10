@@ -1,10 +1,10 @@
 {
+  "clientId": "6uv4h0ddaju0djh0164020mh32",
   "endpoints": {
     "authorize": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/authorize",
     "token": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/token",
     "userinfo": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/userInfo",
     "logout": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/logout"
   },
-  "client-id": "6uv4h0ddaju0djh0164020mh32",
   "scopes": ["openid", "email", "profile"]
 }

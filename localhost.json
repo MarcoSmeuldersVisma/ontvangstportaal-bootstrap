@@ -1,5 +1,5 @@
 {
-  "client-id": "abc-123",
+  "clientId": "abc-123",
   "endpoints": {
     "authorize": "localhost:3004/mock-auth/authorize",
     "token": "localhost:3004/mock-auth/token",
