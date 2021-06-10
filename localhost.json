@@ -1,10 +1,10 @@
 {
-  "clientId": "abc-123",
+  "clientId": "6uv4h0ddaju0djh0164020mh32",
   "endpoints": {
-    "authorize": "localhost:3004/mock-auth/authorize",
-    "token": "localhost:3004/mock-auth/token",
-    "userinfo": "localhost:3004/mock-auth/userinfo",
-    "logout": "localhost:3004/mock-auth/logout"
+    "authorize": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/authorize",
+    "token": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/token",
+    "userinfo": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/oauth2/userInfo",
+    "logout": "ontvangstportaal.auth.eu-west-1.amazoncognito.com/logout"
   },
-  "scopes": []
+  "scopes": ["openid", "email", "profile"]
 }
