@@ -1,0 +1,10 @@
+{
+  "endpoints": {
+    "authorize": "localhost:3004/mock-auth/authorize",
+    "token": "localhost:3004/mock-auth/token",
+    "userinfo": "localhost:3004/mock-auth/userinfo",
+    "logout": "localhost:3004/mock-auth/logout"
+  },
+  "client-id": "abc-123",
+  "scopes": []
+}
